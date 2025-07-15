@@ -4,6 +4,9 @@ import os
 from utils import writeChunksToFile
 
 # # Replace this with your actual OpenAI API key
+# api_key = "INSERT_KEY_HERE"
+# openai.api_key = api_key
+# # Replace this with your actual OpenAI API key
 # api_key = "INSERT API KEY HERE"
 # openai.api_key = api_key
 
