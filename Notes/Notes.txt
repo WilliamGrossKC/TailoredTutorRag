@@ -1,0 +1,21 @@
+What I need int tests for
+Going to Need to boot up services and use curl commands
+Also need more error handling
+TT 
+
+
+TSA
+
+
+DAL
+
+
+
+Full Flow
+
+create thread From TT
+call autonamethread
+AutoName thread call TSA
+TSA Method
+Get Name Back
+Create in DAL

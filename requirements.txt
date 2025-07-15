@@ -1,0 +1,13 @@
+transformers
+sentence-transformers
+torch
+faiss-cpu
+scikit-learn
+rank-bm25
+numpy
+nltk
+docx
+PyPDF2
+pdfplumber
+pypandoc
+
